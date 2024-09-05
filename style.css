@@ -1,0 +1,34 @@
+body {
+    background-color: #f0f4f8;
+    display: flex;
+    justify-content: center;    
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.timer {
+    text-align: center;
+}
+
+#numbers {
+    margin-bottom: 20px;
+    display: block;
+}
+
+button {
+    margin: 5px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: azure;
+    color: black;
+}
+
+button:hover {
+    background-color: aqua;
+}
+
+#text {
+    padding-right: 7px;
+}
